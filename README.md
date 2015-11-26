@@ -16,7 +16,10 @@ https://github.com/SYTW/quiz-sequelize
 Repositorio con ejemplo de uso combinado de Express y Sequelize URL
 https://github.com/SYTW/express-example
 
-Promesas
+Promesas/future/deferreds 
+diferido, promesa y futuro ... http://www.iteramos.com/pregunta/6951/cuales-son-las-diferencias-entre-diferido-promesa-y-futuro-en-javascript
+
+
  JavaScript Promises There and back again. URL : http://www.html5rocks.com/en/tutorials/es6/promises/
  
  MDN Promises URL : https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
